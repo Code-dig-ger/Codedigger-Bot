@@ -1,0 +1,1 @@
+\connect :username - To connect our bot with Website, put username here, it will temporarily add username to profile, Authenticate/ Verify first through website profile page. 
