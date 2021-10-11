@@ -1,1 +1,1 @@
-\connect :username - To connect our bot with Website, put username here, it will temporarily add username to profile, Authenticate/ Verify first through website profile page. 
+\verify :username - To verify your discord_tag with Website, put username here, it will verify if the same tag is in profile, Update first through website profile page. 
